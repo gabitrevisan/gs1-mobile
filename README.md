@@ -1,3 +1,14 @@
+# Global Solution – 2025.1
+Mobile Development & IoT
+
+## BlackoutTracker
+3ESPW – Gabriela Trevisan (RM99500) e Rafael Franck (RM550785)
+
+Acesso ao GitHub via https://github.com/gabitrevisan/gs1-mobile
+Acesso ao VideoPitch via https://youtu.be/tL78GSkmwTg?si=ZvX2q1690q71bW1S
+
+------------------------------------------------
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
